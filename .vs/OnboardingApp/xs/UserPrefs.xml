@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{F67C7BA9-3138-4145-BA0A-CADDE9CDA0C9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OnboardingApp/OnboardingPage.xaml">
+    <Files>
+      <File FileName="OnboardingApp/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="OnboardingApp/MainPage.xaml.cs" Line="16" Column="35" />
+      <File FileName="OnboardingApp/App.xaml" Line="1" Column="1" />
+      <File FileName="OnboardingApp/App.xaml.cs" Line="13" Column="37" />
+      <File FileName="OnboardingApp.iOS/AppDelegate.cs" Line="25" Column="13" />
+      <File FileName="OnboardingApp.Android/MainActivity.cs" Line="17" Column="56" />
+      <File FileName="OnboardingApp/OnboardingModel.cs" Line="8" Column="31" />
+      <File FileName="OnboardingApp/OnboardingViewModel.cs" Line="40" Column="36" />
+      <File FileName="OnboardingApp/OnboardingPage.xaml" Line="5" Column="36" />
+      <File FileName="OnboardingApp/OnboardingPage.xaml.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OnboardingApp" expanded="True">
+            <Node name="OnboardingApp" expanded="True">
+              <Node name="OnboardingPage.xaml" expanded="True" selected="True" />
+            </Node>
+            <Node name="OnboardingApp.Android" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="OnboardingApp.iOS" expanded="True">
+              <Node name="Resources" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.OnboardingApp.Android PreferredExecutionTarget="Android.nexus_one_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

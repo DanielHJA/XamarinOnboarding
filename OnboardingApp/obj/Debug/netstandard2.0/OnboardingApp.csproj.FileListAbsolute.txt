@@ -1,0 +1,14 @@
+/Users/danielhjartstrom/Projects/OnboardingApp/OnboardingApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/danielhjartstrom/Projects/OnboardingApp/OnboardingApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/danielhjartstrom/Projects/OnboardingApp/OnboardingApp/obj/Debug/netstandard2.0/OnboardingPage.xaml.g.cs
+/Users/danielhjartstrom/Projects/OnboardingApp/OnboardingApp/obj/Debug/netstandard2.0/OnboardingApp.AssemblyInfoInputs.cache
+/Users/danielhjartstrom/Projects/OnboardingApp/OnboardingApp/obj/Debug/netstandard2.0/OnboardingApp.AssemblyInfo.cs
+/Users/danielhjartstrom/Projects/OnboardingApp/OnboardingApp/obj/Debug/netstandard2.0/OnboardingApp.csproj.CoreCompileInputs.cache
+/Users/danielhjartstrom/Projects/OnboardingApp/OnboardingApp/obj/Debug/netstandard2.0/OnboardingApp.dll
+/Users/danielhjartstrom/Projects/OnboardingApp/OnboardingApp/obj/Debug/netstandard2.0/ref/OnboardingApp.dll
+/Users/danielhjartstrom/Projects/OnboardingApp/OnboardingApp/obj/Debug/netstandard2.0/OnboardingApp.pdb
+/Users/danielhjartstrom/Projects/OnboardingApp/OnboardingApp/bin/Debug/netstandard2.0/OnboardingApp.deps.json
+/Users/danielhjartstrom/Projects/OnboardingApp/OnboardingApp/bin/Debug/netstandard2.0/OnboardingApp.dll
+/Users/danielhjartstrom/Projects/OnboardingApp/OnboardingApp/bin/Debug/netstandard2.0/ref/OnboardingApp.dll
+/Users/danielhjartstrom/Projects/OnboardingApp/OnboardingApp/bin/Debug/netstandard2.0/OnboardingApp.pdb
+/Users/danielhjartstrom/Projects/OnboardingApp/OnboardingApp/obj/Debug/netstandard2.0/XamlC.stamp

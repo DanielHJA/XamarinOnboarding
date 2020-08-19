@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "6jHpmcRLZ5aoywkTgzhK2uBVQZVbD20bLuOZ3b1QSXF0rB2a9Uoc9/2q4LalLGxcOgifaUCcKlSw5pnvNWi1gA==",
+  "success": true,
+  "projectFilePath": "/Users/danielhjartstrom/Projects/OnboardingApp/OnboardingApp/OnboardingApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/danielhjartstrom/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/danielhjartstrom/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/danielhjartstrom/.nuget/packages/refractored.mvvmhelpers/1.6.2/refractored.mvvmhelpers.1.6.2.nupkg.sha512",
+    "/Users/danielhjartstrom/.nuget/packages/skiasharp/1.68.0/skiasharp.1.68.0.nupkg.sha512",
+    "/Users/danielhjartstrom/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/danielhjartstrom/.nuget/packages/system.valuetuple/4.5.0/system.valuetuple.4.5.0.nupkg.sha512",
+    "/Users/danielhjartstrom/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/danielhjartstrom/.nuget/packages/xamarin.ffimageloading/2.4.11.982/xamarin.ffimageloading.2.4.11.982.nupkg.sha512",
+    "/Users/danielhjartstrom/.nuget/packages/xamarin.ffimageloading.forms/2.4.11.982/xamarin.ffimageloading.forms.2.4.11.982.nupkg.sha512",
+    "/Users/danielhjartstrom/.nuget/packages/xamarin.ffimageloading.svg/2.4.11.982/xamarin.ffimageloading.svg.2.4.11.982.nupkg.sha512",
+    "/Users/danielhjartstrom/.nuget/packages/xamarin.ffimageloading.svg.forms/2.4.11.982/xamarin.ffimageloading.svg.forms.2.4.11.982.nupkg.sha512",
+    "/Users/danielhjartstrom/.nuget/packages/xamarin.forms/4.8.0.1269/xamarin.forms.4.8.0.1269.nupkg.sha512"
+  ],
+  "logs": []
+}
